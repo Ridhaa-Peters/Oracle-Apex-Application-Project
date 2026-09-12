@@ -4,6 +4,4 @@ I acted as the project manager in my team, ensuring all deliverables were at a h
 
 Please find the application by clicking on the following link: https://apex.oracle.com/pls/apex/r/ifs244_group1/ot-insights/home?session=5919919783784
 
-Username : 4056535@myuwc.ac.za
 
-Password : Ridhaapeters22!
